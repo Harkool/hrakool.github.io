@@ -22,33 +22,33 @@ repository               : "https://harkool.github.io/hrakool.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hao Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. candidate"
+  location         : "Nanjing, China"
+  employer         : "China Pharmaceutical University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lenhartkoo@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd9ZAL7MD-yXOFnQmCFmWhCa7urnlogeAdo929JnzxRandLceciU-qudkLRbPcCzF0tvUz55S4B2e19h3nSeU5eG-u6rRUbmGGRFg4XK1bdWpqE4Xzs5yUVXtp85zI8&user=RYAl3IUAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9627-6033"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  cnki           : "https://au.cnki.net/author/personalInfo/000063918543"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Harkool"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
