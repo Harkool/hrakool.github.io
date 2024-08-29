@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 刘昊  
-Liu Hao
+Hao, Liu
 
 Ph.D. candidate  
 State Key Laboratory of Natural Medicines  
