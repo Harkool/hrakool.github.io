@@ -16,8 +16,8 @@ Ph.D. candidate
 State Key Laboratory of Natural Medicines  
 [China Pharmaceutical University](https://www.cpu.edu.cn/ssfzx/zygc/index.psp), Nanjing 211198, China  
 Supervisor: Professor [De-chuan Zhan](https://www.yuque.com/zhandc/home/nk8z4o)  
-Email: [lenhartkoo@foxmail.com](lenhartkoo@foxmail.com)  
-Laboratory: Computer Science Building, Xianlin Campus of Nanjing University  
+Email: [3124074362@stu.cpu.edu.cn](3124074362@stu.cpu.edu.cn)  
+Laboratory: A202, Yifu Building, Nanjing University Xianlin Campus  
 
 Biography
 ======
@@ -49,7 +49,7 @@ Awards & Honors
 
 Correspondence
 ------
-Email: [lenhartkoo@foxmail.com](lenhartkoo@foxmail.com)
+Email: [3124074362@stu.cpu.edu.cn](3124074362@stu.cpu.edu.cn)
 
-Address: National Key Laboratory for Novel Software Technology, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.
-(南京市栖霞区仙林大道163号, 南京大学仙林校区, 软件新技术国家重点实验室, 210023.)
+Address: A202, Yifu Building, Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.
+(南京市栖霞区仙林大道163号, 南京大学仙林校区, 逸夫楼A202, 210023.)
